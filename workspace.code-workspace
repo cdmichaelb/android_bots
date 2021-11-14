@@ -1,17 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "..\\d2r project"
-		},
-		{
 			"path": "."
 		},
-		{
-			"path": "..\\Bots"
-		},
-		{
-			"path": "..\\Bots\\opencv_tutorials"
-		}
 	],
 	"settings": {
 		"git.ignoreLimitWarning": true
